@@ -21,7 +21,7 @@ En pocas palabras, tu nodo es un eslabón vital que fortalece la infraestructura
 Usa este índice para saltar directamente a la sección que te interese.
 
 * [**1. Requisitos Previos para tu Nodo**](#1-requisitos-previos-para-tu-nodo)
-    * [1.1. Hardware del Servidor (VPS)](#11-hardware-del-servidor-vps)
+    * [**1.1. Hardware del Servidor (VPS)**](1.1-hardware-vps.md)
     * [1.2. Sistema Operativo](#12-sistema-operativo)
     * [1.3. Herramientas y Cuentas Necesarias](#13-herramientas-y-cuentas-necesarias)
 
