@@ -32,8 +32,7 @@ Usa este índice para saltar directamente a la sección que te interese.
 
 * [**3. Instalación de Docker**](#3-instalacion-de-docker)
     * [3.1. Pasos para la Instalación de Docker](#31-pasos-para-la-instalacion-de-docker)
-    * [3.2. Verificación de Docker](#32-verificacion-de-docker)
-    * [3.3. Añadir Usuario al Grupo Docker](#33-añadir-usuario-al-grupo-docker)
+    * [3.2. Añadir Usuario al Grupo Docker](#33-añadir-usuario-al-grupo-docker)
 
 * [**4. Implementación del Nodo de Pi Network**](#4-implementacion-del-nodo-de-pi-network)
     * [4.1. Obtener la Imagen de Docker del Nodo Pi](#41-obtener-la-imagen-de-docker-del-nodo-pi)
