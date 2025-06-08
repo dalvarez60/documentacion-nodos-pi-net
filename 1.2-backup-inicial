@@ -18,5 +18,6 @@ Para la compresión de tu respaldo, se recomienda usar **ZSTD** (Zstandard).
 * **Ventajas de ZSTD:** Es un algoritmo de compresión moderno que ofrece una excelente combinación de **velocidad y eficiencia**. Esto significa que tu respaldo ocupará menos espacio de almacenamiento y se completará más rápido, lo que es beneficioso tanto para ti como para el proveedor del servicio.
 ![Texto alternativo para la imagen](URL_de_la_imagen_o_ruta_local)
 
-```markdown
+---
+[Volver al Menú Principal](index.md)
 
