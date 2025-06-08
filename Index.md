@@ -22,7 +22,7 @@ Usa este índice para saltar directamente a la sección que te interese.
 
 * [**1. Requisitos Previos para tu Nodo**](#1-requisitos-previos-para-tu-nodo)
     * [**1.1. Hardware del Servidor (VPS)**](1.1-hardware-vps.md)
-    * [1.2. Sistema Operativo](#12-sistema-operativo)
+    * [**1.2. Backup Inicial del Servidor (VPS)**](1.2-backup-inicial.md)
     * [1.3. Herramientas y Cuentas Necesarias](#13-herramientas-y-cuentas-necesarias)
 
 * [**2. Configuración Inicial del VPS**](#2-configuracion-inicial-del-vps)
